@@ -1,0 +1,57 @@
+// TARJETA DE PRODUCTOS
+.card {
+  margin-left: 5px;
+  margin-right: 5px;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.01);
+  box-shadow: 0 4px 8px rgb(0, 0, 0, 0.2);
+}
+
+.card .card-img-top {
+  height: 250px;
+  width: auto;
+  object-fit: cover;
+}
+
+// MEDALLA DE UNIDADES---------------------
+.producto .badge {
+  display: inline-block;
+  padding: 5px 10px;
+  font-size: 12px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
+.badge-info {
+  background-color: #17a2b8;
+  color: white;
+}
+// FIN MEDALLA DE UNIDADES-----------------
+.filled{
+    color: green;
+}
+// MODIFICAMOS COLORES DEL CAROUSEL
+.carousel-control-prev,
+.carousel-control-next {
+  background-color: rgba(0, 0, 0, 0.397); 
+  color: white; 
+  border-radius: 20px; 
+  margin-top: 20%;
+  max-width: 2%;
+  max-height: 10%;
+}
+
+.btn{
+    width: 100%;
+}
+
+.container h2 {
+    margin-top: 1rem;
+}
+.container .icon-img{
+    max-width: 30px;
+    margin-bottom: 10px;
+}
