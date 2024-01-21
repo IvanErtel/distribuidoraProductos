@@ -29,6 +29,26 @@
     color: white;
 
 }
-// .texto-form{
-//     color: white;
-// }
+
+.linea-divisoria{
+    height: 5px;
+    background: #424242;
+}
+.btn-enviar{
+    width: 100%;
+}
+
+// BOTON FLOTANTE WPP
+.wpp-float {
+    position: fixed;
+    width: 50px;
+    height: 60px;
+    bottom: 20px;
+    right: 20px;
+    z-index: 100;
+}
+
+.wpp-float img {
+    width: 100%;
+    height: auto;
+}

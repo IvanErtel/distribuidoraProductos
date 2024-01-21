@@ -39,3 +39,24 @@
     box-shadow: 0 4px 8px rgb(0, 0, 0, 0.2);
 }
 }
+// CAROUSEL MARCAS
+.carousel-marcas {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+}
+
+.carousel-marcas .item {
+  text-align: center;
+  flex: 1;
+  padding: 0 10px;
+}
+
+.carousel-marcas .item img {
+  padding: 20px;
+  max-width: 150%;
+  max-height: 50%;
+  display: block;
+}
