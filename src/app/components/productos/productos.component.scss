@@ -1,0 +1,35 @@
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .card-title {
+    font-size: 1.2rem;
+    /* Agrega estilos adicionales aquí */
+  }
+  // ESTILOS PARA LOS PRECIOS Y DESCUENTOS
+.pricing {
+  margin-bottom: 10px;
+}
+
+.price {
+  display: block;
+  font-size: 18px;
+}
+
+.new-price {
+  color: #ff0000;
+  font-weight: bold;
+}
+
+.old-price {
+  color: #999;
+  text-decoration: line-through;
+}
+
+.discount {
+  color: #ff0000;
+  font-size: 16px;
+  font-weight: bold;
+}
+// FIN ESTILOS PARA LOS PRECIOS Y DESCUENTOS

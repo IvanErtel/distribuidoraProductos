@@ -60,3 +60,24 @@
   max-height: 50%;
   display: block;
 }
+
+@media (max-width: 768px) {
+  .text{
+    font-size: 22px;
+  }
+  .carousel-marcas {
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .carousel-marcas .item {
+    margin-right: 15px;
+    width: 45%;
+  }
+  
+  .carousel-marcas .item img {
+    max-width: 160px;
+    height: auto;
+  }
+
+}

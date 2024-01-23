@@ -1,504 +1,589 @@
 [
+
     {
         "categoria": "Villa del sur",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "115",
         "descripcion": "AGUA VILLA MANAOS 6X2L",
         "precio": "3.300.00"
     },
     {
         "categoria": "villavicencio",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "290",
         "descripcion": "AGUA VILLA MANAOS 6X2L",
         "precio": "3.200.00"
     },
     {
         "categoria": "Manaos",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "1061",
         "descripcion": "AGUA VILLA MANAOS 6X2L",
         "precio": "4.100.00"
     },
     {
         "categoria": "Villa del sur",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "164",
         "descripcion": "PLACER MANZANA 6X1,5",
         "precio": "2.200.00"
     },
     {
         "categoria": "aceite",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "794",
         "descripcion": "",
         "precio": "6.200.00"
     },
     {
         "categoria": "aderezos",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "926",
         "descripcion": "",
         "precio": "4.200.00"
     },
     {
         "categoria": "Azucar",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "769",
         "descripcion": "Comun 10 X 1Kg",
         "precio": "8.300.00"
     },
     {
         "categoria": "Cafe",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "971",
         "descripcion": "",
         "precio": "30.000.00"
     },
     {
         "categoria": "chocolatada",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "797",
         "descripcion": "CAFE DOLCA SUAVE 12X170G",
         "precio": "4.900.00"
     },
     {
         "categoria": "dulces",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "893",
         "descripcion": "CAFE DOLCA SUAVE 12X170G",
         "precio": "10.500.00"
     },
     {
         "categoria": "edulcorante",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "966",
         "descripcion": "",
         "precio": "11.500.00"
     },
     {
         "categoria": "Enlatados",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "380",
         "descripcion": "",
         "precio": "1.300.00"
     },
     {
         "categoria": "Harina",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "789",
         "descripcion": "DURAZNO LA COLINA LATA 12X820",
         "precio": "5.300.00"
     },
     {
         "categoria": "lacteos",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "798",
         "descripcion": "DURAZNO LA COLINA LATA 12X820",
         "precio": "4.800.00"
     },
     {
         "categoria": "Tomates",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "896",
         "descripcion": "DURAZNO LA COLINA LATA 12X820",
         "precio": "4.500.00"
     },
     {
         "categoria": "Yerbas",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "783",
         "descripcion": "DURAZNO LA COLINA LATA 12X820",
         "precio": "11.000.00"
     },
     {
         "categoria": "Aperitivos",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "4",
         "descripcion": "",
         "precio": "24.000.00"
     },
     {
         "categoria": "Botella",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "606",
         "descripcion": "",
         "precio": "28.800.00"
     },
     {
         "categoria": "Fernet",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "1700",
         "descripcion": "GANCIA 12X1L",
         "precio": "10.000.00"
     },
     {
         "categoria": "Lata",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "1448",
         "descripcion": "FERNET BRANCA-MENTA 6X750",
         "precio": "22.800.00"
     },
     {
         "categoria": "Manaos",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "737",
         "descripcion": "FERNET BRANCA-MENTA 6X750",
         "precio": "5.900.00"
     },
     {
         "categoria": "vinos finos",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "5",
         "descripcion": "",
         "precio": "24.000.00"
     },
     {
         "categoria": "Lata",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "359",
         "descripcion": "",
         "precio": "14.000.00"
     },
     {
         "categoria": "Porron",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "571",
         "descripcion": "ANDES LATA NEGRA 24X473",
         "precio": "15.000.00"
     },
     {
         "categoria": "Retornable",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "353",
         "descripcion": "ANDES LATA NEGRA 24X473",
         "precio": "19.000.00"
     },
     {
         "categoria": "Espumante",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "992",
         "descripcion": "",
         "precio": "12.000.00"
     },
     {
         "categoria": "Lopez",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "325",
         "descripcion": "",
         "precio": "14.000.00"
     },
     {
         "categoria": "Salentein",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "535",
         "descripcion": "",
         "precio": "25.000.00"
     },
     {
         "categoria": "Coca-cola",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "179",
         "descripcion": "VALE POR ENVASES",
         "precio": "10.300.00"
     },
     {
         "categoria": "Cunnington",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "23",
         "descripcion": "VALE POR ENVASES",
         "precio": "6.500.00"
     },
     {
         "categoria": "Fanta",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "340",
         "descripcion": "",
         "precio": "3.000.00"
     },
     {
         "categoria": "Manaos",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "17",
         "descripcion": "",
         "precio": "4.700.00"
     },
     {
         "categoria": "Pepsi",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "92",
         "descripcion": "MANAOS NARANJA 6X 2,25",
         "precio": "7.000.00"
     },
     {
         "categoria": "Schweppes",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "51",
         "descripcion": "MANAOS NARANJA 6X 2,25",
         "precio": "10.300.00"
     },
     {
         "categoria": "Seven-up",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "28",
         "descripcion": "MANAOS NARANJA 6X 2,25",
         "precio": "7.000.00"
     },
     {
         "categoria": "Sprite",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "50",
         "descripcion": "MANAOS NARANJA 6X 2,25",
         "precio": "10.300.00"
     },
     {
         "categoria": "Fernet",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "645",
         "descripcion": "",
         "precio": "5.300.00"
     },
     {
         "categoria": "Clight",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "251",
         "descripcion": "",
         "precio": "3.400.00"
     },
     {
         "categoria": "Coca-cola",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "316",
         "descripcion": "",
         "precio": "5.500.00"
     },
     {
         "categoria": "Manaos",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "209",
         "descripcion": "",
         "precio": "7.100.00"
     },
     {
         "categoria": "Powerade",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "258",
         "descripcion": "",
         "precio": "2.800.00"
     },
     {
         "categoria": "Rinde dos",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "939",
         "descripcion": "",
         "precio": "5.000.00"
     },
     {
         "categoria": "Tang",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "378",
         "descripcion": "",
         "precio": "3.200.00"
     },
     {
         "categoria": "importados",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "487",
         "descripcion": "",
         "precio": "25.000.00"
     },
     {
         "categoria": "Petacas",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "433",
         "descripcion": "",
         "precio": "8.000.00"
     },
     {
         "categoria": "Tres plumas",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "437",
         "descripcion": "",
         "precio": "18.000.00"
     },
     {
         "categoria": "Tres plumas pet",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "406",
         "descripcion": "",
         "precio": "8.000.00"
     },
     {
         "categoria": "Tristina",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "423",
         "descripcion": "",
         "precio": "8.500.00"
     },
     {
         "categoria": "Papel higienico",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "822",
         "descripcion": "",
         "precio": "10.260.00"
     },
     {
         "categoria": "Rollo cocina",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "870",
         "descripcion": "",
         "precio": "11.450.00"
     },
     {
         "categoria": "Tunuyan",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "655",
         "descripcion": "",
         "precio": "5.700.00"
     },
     {
         "categoria": "Balbo",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "857",
         "descripcion": "",
         "precio": "9.700.00"
     },
     {
         "categoria": "Botella",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "203",
         "descripcion": "",
         "precio": "20.000.00"
     },
     {
         "categoria": "Cabarceno",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "744",
         "descripcion": "",
         "precio": "8.900.00"
     },
     {
         "categoria": "Catena Zapata",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "1018",
         "descripcion": "",
         "precio": "20.500.00"
     },
     {
         "categoria": "Don Bosco",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "945",
         "descripcion": "",
         "precio": "9.000.00"
     },
     {
         "categoria": "Don valentin",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "278",
         "descripcion": "",
         "precio": "8.000.00"
     },
     {
         "categoria": "Escorihuela",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "503",
         "descripcion": "",
         "precio": "22.600.00"
     },
     {
         "categoria": "Esmeralda",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "838",
         "descripcion": "",
         "precio": "8.500.00"
     },
     {
         "categoria": "Esteco",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "271",
         "descripcion": "ESTIBA-1 MALBEC 6X750",
         "precio": "20.000.00"
     },
     {
         "categoria": "Etchart",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "631",
         "descripcion": "DON DAVID 6X750 MALBEC",
         "precio": "12.000.00"
     },
     {
         "categoria": "Fabre",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "745",
         "descripcion": "DON DAVID 6X750 MALBEC",
         "precio": "18.000.00"
     },
     {
         "categoria": "Las Moras",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "87",
         "descripcion": "",
         "precio": "18.000.00"
     },
     {
         "categoria": "Lopez",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "183",
         "descripcion": "ALMA MORA CAB-SUA 6X750",
         "precio": "7.200.00"
     },
     {
         "categoria": "Los Haroldos",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "537",
         "descripcion": "RINCON FAMOSO TINTO 6X750",
         "precio": "8.200.00"
     },
     {
         "categoria": "Luigi Bosca",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "204",
         "descripcion": "",
         "precio": "18.000.00"
     },
     {
         "categoria": "Mosquita Muerta",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "1022",
         "descripcion": "",
         "precio": "13.000.00"
     },
     {
         "categoria": "Navarro",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "298",
         "descripcion": "",
         "precio": "15.000.00"
     },
     {
         "categoria": "Norton",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "545",
         "descripcion": "",
         "precio": "9.900.00"
     },
     {
         "categoria": "Peña Flor",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "449",
         "descripcion": "",
         "precio": "13.500.00"
     },
     {
         "categoria": "Pupinco",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "60",
         "descripcion": "",
         "precio": "10.500.00"
     },
     {
         "categoria": "RPB",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "551",
         "descripcion": "MANOJO DE UVAS TINTO 12X1L",
         "precio": "11.000.00"
     },
     {
         "categoria": "Rutini",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "241",
         "descripcion": "RICORDI MALBEC 6X750",
         "precio": "43.000.00"
     },
     {
         "categoria": "Santa ana",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "395",
         "descripcion": "",
         "precio": "10.500.00"
     },
     {
         "categoria": "Valderrobles",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "815",
         "descripcion": "",
         "precio": "5.900.00"
     },
     {
         "categoria": "vinos finos",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "385",
         "descripcion": "",
         "precio": "62.000.00"
     },
     {
         "categoria": "Viña Alvear",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "601",
         "descripcion": "ESTUCHE FAMILIA GASCON",
         "precio": "10.500.00"
     },
     {
         "categoria": "Zuccardi",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "695",
         "descripcion": "ESTUCHE FAMILIA GASCON",
         "precio": "11.000.00"
     },
     {
         "categoria": "Absolut",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "18",
         "descripcion": "",
         "precio": "12.500.00"
     },
     {
         "categoria": "Doble-v",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "1027",
         "descripcion": "",
         "precio": "15.000.00"
     },
     {
         "categoria": "Nita",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "491",
         "descripcion": "",
         "precio": "8.500.00"
     },
     {
         "categoria": "Sernova",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "1033",
         "descripcion": "",
         "precio": "19.200.00"
     },
     {
         "categoria": "skyy",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "661",
         "descripcion": "",
         "precio": "4.200.00"
     },
     {
         "categoria": "Smirnoff",
+        "imagen": "../../assets/img/aguaManaos2L.png",
         "codigo": "622",
         "descripcion": "",
         "precio": "20.400.00"

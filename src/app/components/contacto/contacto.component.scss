@@ -25,7 +25,7 @@
 /* FORMULARIO */
 
 #contacto {
-    padding-bottom: 60PX;
+    padding-bottom: 60px;
     color: white;
 
 }
@@ -51,4 +51,23 @@
 .wpp-float img {
     width: 100%;
     height: auto;
+}
+
+@media (max-width: 768px) {
+    #contenedor-contacto {
+        display: block; 
+    }
+
+    #contacto{
+        padding-top: 50px;
+    }
+    #google-map {
+        margin-top: 0px;
+        padding: 0px;
+    }
+    #contacto,
+    #google-map {
+        width: 90%; 
+    }
+
 }
