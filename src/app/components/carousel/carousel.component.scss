@@ -11,7 +11,7 @@
 }
 
 .card .card-img-top {
-  height: 250px;
+  max-height: 250px;
   width: auto;
   object-fit: cover;
 }
@@ -62,12 +62,12 @@
 }
 
 .price {
-  display: block;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .new-price {
-  color: #ff0000;
+  padding-right: 10px;
+  color: #333;
   font-weight: bold;
 }
 
@@ -85,10 +85,37 @@
 
 // MEDIAS QUERYS
 @media screen and (max-width: 768px) {
-  .card{
-    width: 100%;
-    margin: auto;
+  .card {
+    flex: 0 0 45%; 
+    max-width: 45%; 
+    max-height: 300px;
+    overflow: hidden;
+    font-size: 7px;
   }
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    height: 100%;
+  }
+
+  .card .card-img-top {
+    max-height: 110px;
+    width: auto;
+    object-fit: contain;
+  }
+  .btn {
+    width: 100%; /* Hace que el botón ocupe todo el ancho de la tarjeta */
+    // margin-top: auto;
+    height: 40px;
+    font-size: 14px;
+  }
+
+  .price {
+    display: block;
+    font-size: 14px;
+  }
+
   .carousel-control-prev,
 .carousel-control-next { 
   margin-top: 10px;

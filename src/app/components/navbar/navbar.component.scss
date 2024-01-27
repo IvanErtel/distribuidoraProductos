@@ -1,5 +1,13 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1; /* Asegúrate de que sea suficientemente alto para estar sobre otros elementos */
+}
 .logo-img {
-  width: 150px;
+  margin-left: 150px;
+  width: 100px;
   height: auto;
 }
 
@@ -15,6 +23,9 @@ a.nav-link.hover-navbar.active {
   border-bottom: 2px solid #02af02;
 }
 
+.input-group{
+  margin-right: 150px;
+}
 .input-group .form-control {
   border-radius: 25px;
 }
@@ -33,6 +44,7 @@ a.nav-link.hover-navbar.active {
 // MEDIAS QUERYS
 @media (max-width: 768px) {
   .logo-img {
+    margin-left: 0px;
     width: 80px;
     height: auto;
   }
@@ -45,4 +57,19 @@ a.nav-link.hover-navbar.active {
     width: 100%;
   }
 
+  .input-group{
+    margin-right: 0px;
+  }
+
+}
+@media (max-width: 1220px) {
+  .logo-img {
+    margin-left: 0px;
+    width: 80px;
+    height: auto;
+  }
+
+  .input-group{
+    margin-right: 0px;
+  }
 }
