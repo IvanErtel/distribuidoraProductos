@@ -117,7 +117,7 @@
 }
 .social-icons a{
   background-color:#eceeef;
-  color:#e6e6e6;
+  color:#000000;
   font-size:16px;
   display:inline-block;
   line-height:44px;
@@ -160,6 +160,11 @@
 }
 @media (max-width:767px)
 {
+
+  .social-icons{
+    margin-right: 0px;
+  }
+  
   .social-icons li.title
   {
     display:block;

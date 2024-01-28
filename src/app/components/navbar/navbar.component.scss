@@ -20,6 +20,10 @@ a.nav-link.hover-navbar.active {
 
 .hover-navbar:hover {
   font-size: 105%;
+  border-bottom: 1px solid #d0ff00;
+}
+
+.router-link-active {
   border-bottom: 2px solid #02af02;
 }
 

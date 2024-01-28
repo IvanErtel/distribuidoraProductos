@@ -59,6 +59,7 @@
 @media (max-width: 768px) {
 
   .text {
+    text-align: center;
     font-size: 22px;
   }
 
@@ -69,8 +70,8 @@
   }
 
   .carousel-marcas .item {
-    margin-right: 15px;
     width: 45%;
+    padding-left: 40px;
   }
 
   .carousel-marcas .item img {
