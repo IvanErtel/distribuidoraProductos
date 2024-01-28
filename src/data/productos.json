@@ -23,14 +23,14 @@
     },
     {
         "categoria": "Villa del sur",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "164",
         "descripcion": "PLACER MANZANA 6X1,5",
         "precio": "2.200"
     },
     {
         "categoria": "aceite",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "794",
         "descripcion": "",
         "precio": "6.200"
@@ -65,14 +65,14 @@
     },
     {
         "categoria": "dulces",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "893",
         "descripcion": "",
         "precio": "10.500"
     },
     {
         "categoria": "edulcorante",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "966",
         "descripcion": "",
         "precio": "11.500"
@@ -93,7 +93,7 @@
     },
     {
         "categoria": "lacteos",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "798",
         "descripcion": "",
         "precio": "4.800"
@@ -107,21 +107,21 @@
     },
     {
         "categoria": "Yerbas",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "783",
         "descripcion": "DURAZNO LA COLINA LATA 12X820",
         "precio": "110"
     },
     {
         "categoria": "Aperitivos",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "4",
         "descripcion": "",
         "precio": "240"
     },
     {
         "categoria": "Botella",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "606",
         "descripcion": "",
         "precio": "28.800"
@@ -135,7 +135,7 @@
     },
     {
         "categoria": "Lata",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "1448",
         "descripcion": "FERNET BRANCA-MENTA 6X750",
         "precio": "22.800"
@@ -149,21 +149,21 @@
     },
     {
         "categoria": "vinos finos",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "5",
         "descripcion": "",
         "precio": "240"
     },
     {
         "categoria": "Lata",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "359",
         "descripcion": "",
         "precio": "140"
     },
     {
         "categoria": "Porron",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "571",
         "descripcion": "ANDES LATA NEGRA 24X473",
         "precio": "150"
@@ -177,28 +177,28 @@
     },
     {
         "categoria": "Espumante",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "992",
         "descripcion": "",
         "precio": "120"
     },
     {
         "categoria": "Lopez",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "325",
         "descripcion": "",
         "precio": "140"
     },
     {
         "categoria": "Salentein",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "535",
         "descripcion": "",
         "precio": "250"
     },
     {
         "categoria": "Coca-cola",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "179",
         "descripcion": "VALE POR ENVASES",
         "precio": "10.300"
@@ -219,7 +219,7 @@
     },
     {
         "categoria": "Manaos",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "17",
         "descripcion": "",
         "precio": "4.700"
@@ -240,49 +240,49 @@
     },
     {
         "categoria": "Seven-up",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "28",
         "descripcion": "MANAOS NARANJA 6X 2,25",
         "precio": "70"
     },
     {
         "categoria": "Sprite",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "50",
         "descripcion": "MANAOS NARANJA 6X 2,25",
         "precio": "10.300"
     },
     {
         "categoria": "Fernet",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "645",
         "descripcion": "",
         "precio": "5.300"
     },
     {
         "categoria": "Clight",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "251",
         "descripcion": "Jugo clight sobre",
         "precio": "3.400"
     },
     {
         "categoria": "Coca-cola",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "316",
         "descripcion": "",
         "precio": "5.500"
     },
     {
         "categoria": "Manaos",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "209",
         "descripcion": "",
         "precio": "7.100"
     },
     {
         "categoria": "Powerade",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "258",
         "descripcion": "",
         "precio": "2.800"
@@ -296,42 +296,42 @@
     },
     {
         "categoria": "Tang",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "378",
         "descripcion": "",
         "precio": "3.200"
     },
     {
         "categoria": "importados",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "487",
         "descripcion": "",
         "precio": "250"
     },
     {
         "categoria": "Petacas",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "433",
         "descripcion": "",
         "precio": "80"
     },
     {
         "categoria": "Tres plumas",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "437",
         "descripcion": "",
         "precio": "180"
     },
     {
         "categoria": "Tres plumas pet",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "406",
         "descripcion": "",
         "precio": "80"
     },
     {
         "categoria": "Tristina",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "423",
         "descripcion": "",
         "precio": "8.500"
@@ -345,126 +345,126 @@
     },
     {
         "categoria": "Rollo cocina",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "870",
         "descripcion": "",
         "precio": "11.450"
     },
     {
         "categoria": "Tunuyan",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "655",
         "descripcion": "",
         "precio": "5.700"
     },
     {
         "categoria": "Balbo",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "857",
         "descripcion": "",
         "precio": "9.700"
     },
     {
         "categoria": "Botella",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "203",
         "descripcion": "",
         "precio": "200"
     },
     {
         "categoria": "Cabarceno",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "744",
         "descripcion": "",
         "precio": "8.900"
     },
     {
         "categoria": "Catena Zapata",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "1018",
         "descripcion": "",
         "precio": "20.500"
     },
     {
         "categoria": "Don Bosco",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "945",
         "descripcion": "",
         "precio": "90"
     },
     {
         "categoria": "Don valentin",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "278",
         "descripcion": "",
         "precio": "80"
     },
     {
         "categoria": "Escorihuela",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "503",
         "descripcion": "",
         "precio": "22.600"
     },
     {
         "categoria": "Esmeralda",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "838",
         "descripcion": "",
         "precio": "8.500"
     },
     {
         "categoria": "Esteco",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "271",
         "descripcion": "ESTIBA-1 MALBEC 6X750",
         "precio": "200"
     },
     {
         "categoria": "Etchart",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "631",
         "descripcion": "DON DAVID 6X750 MALBEC",
         "precio": "120"
     },
     {
         "categoria": "Fabre",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "745",
         "descripcion": "DON DAVID 6X750 MALBEC",
         "precio": "180"
     },
     {
         "categoria": "Las Moras",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "87",
         "descripcion": "",
         "precio": "180"
     },
     {
         "categoria": "Lopez",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "183",
         "descripcion": "ALMA MORA CAB-SUA 6X750",
         "precio": "7.200"
     },
     {
         "categoria": "Los Haroldos",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "537",
         "descripcion": "RINCON FAMOSO TINTO 6X750",
         "precio": "8.200"
     },
     {
         "categoria": "Luigi Bosca",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "204",
         "descripcion": "",
         "precio": "180"
     },
     {
         "categoria": "Mosquita Muerta",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "1022",
         "descripcion": "",
         "precio": "130"
@@ -485,14 +485,14 @@
     },
     {
         "categoria": "Peña Flor",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "449",
         "descripcion": "",
         "precio": "13.500"
     },
     {
         "categoria": "RPB",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "551",
         "descripcion": "MANOJO DE UVAS TINTO 12X1L",
         "precio": "110"
@@ -541,14 +541,14 @@
     },
     {
         "categoria": "Doble-v",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "1027",
         "descripcion": "",
         "precio": "150"
     },
     {
         "categoria": "Nita",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "491",
         "descripcion": "",
         "precio": "8.500"
@@ -562,14 +562,14 @@
     },
     {
         "categoria": "skyy",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "661",
         "descripcion": "",
         "precio": "4.200"
     },
     {
         "categoria": "Smirnoff",
-        "imagen": "/assets/imgJson/clight.png",
+        "imagen": "/assets/imgJson/clight.webp",
         "codigo": "622",
         "descripcion": "",
         "precio": "20.400"
