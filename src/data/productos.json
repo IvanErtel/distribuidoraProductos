@@ -37,7 +37,7 @@
     },
     {
         "categoria": "aderezos",
-        "imagen": "../../assets/imgJson/aderezo.png",
+        "imagen": "../../assets/imgJson/aderezo.webp",
         "codigo": "926",
         "descripcion": "",
         "precio": "4.200"
@@ -142,7 +142,7 @@
     },
     {
         "categoria": "FERNET",
-        "imagen": "../../assets/imgJson/fernetmenta.png",
+        "imagen": "../../assets/imgJson/fernetmenta.webp",
         "codigo": "737",
         "descripcion": "FERNET BRANCA-MENTA 6X750",
         "precio": "5.900"
@@ -527,14 +527,14 @@
     },
     {
         "categoria": "Zuccardi",
-        "imagen": "/assets/imgJson/zuccardi.png",
+        "imagen": "/assets/imgJson/zuccardi.webp",
         "codigo": "695",
         "descripcion": "ESTUCHE FAMILIA GASCON",
         "precio": "110"
     },
     {
         "categoria": "Absolut",
-        "imagen": "/assets/imgJson/absolut.png",
+        "imagen": "/assets/imgJson/absolut.webp",
         "codigo": "18",
         "descripcion": "Vodka Absolut 1.5",
         "precio": "12.500"
