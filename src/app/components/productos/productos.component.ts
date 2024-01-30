@@ -10,36 +10,35 @@ import { CommonModule } from '@angular/common';
 @Component({
   selector: 'app-productos',
   standalone: true,
+  templateUrl: './productos.component.html',
+  styleUrl: './productos.component.scss',
   imports: [RouterOutlet,
     NavbarComponent,
     CategoriasComponent,
     ContactoComponent,
     FooterComponent,
-    CommonModule
-  ],
-  templateUrl: './productos.component.html',
-  styleUrl: './productos.component.scss'
+    CommonModule,
+    ]
 })
 export class ProductosComponent implements OnInit {
   descuento: number = 0;
   productos: any[] = [];
   productosFiltrados: any[] = [];
 
-  constructor(private route: ActivatedRoute){}
+  constructor(private route: ActivatedRoute) { }
 
   ngOnInit(): void {
     // mapeamos productos 
     this.productos = productosData.map(producto => ({
       ...producto,
       precio: producto.precio.replace(/\./g, '').replace(',', '.'),
-      descuento : Math.floor(Math.random() * (40 - 5 + 1)) + 5
+      descuento: Math.floor(Math.random() * (40 - 5 + 1)) + 5
     }));
     this.route.queryParams.subscribe(params => {
       const termino = params['busqueda'];
       if (termino) {
         this.filtrarProductos(termino);
       } else {
-        // Manejar el caso en que no hay término de búsqueda
         this.productosFiltrados = this.productos;
       }
     });

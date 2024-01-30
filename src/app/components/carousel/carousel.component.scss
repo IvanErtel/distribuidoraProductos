@@ -40,12 +40,20 @@
 // MODIFICAMOS COLORES DEL CAROUSEL
 .carousel-control-prev,
 .carousel-control-next {
-  background-color: rgba(0, 0, 0, 0.397); 
-  color: white; 
+  background-color: transparent; 
+  color: black; 
   border-radius: 5px; 
   margin-top: 15%;
   max-width: 2%;
   max-height: 10%;
+}
+
+.carousel-control-prev-icon{
+  background-image: url('../../../assets/img/felchaderecha.svg');
+  transform: scale(-1);
+}
+.carousel-control-next-icon{
+  background-image: url('../../../assets/img/felchaderecha.svg');
 }
 
 .btn{
@@ -109,7 +117,7 @@
     object-fit: contain;
   }
   .btn {
-    width: 100%; /* Hace que el botón ocupe todo el ancho de la tarjeta */
+    width: 100%;
     // margin-top: auto;
     height: 40px;
     font-size: 14px;
@@ -122,8 +130,8 @@
 
   .carousel-control-prev,
 .carousel-control-next { 
-  margin-top: 10px;
-  max-width: 5%;
+  padding-top: 50px;
+  max-width: 7%;
 }
 }
 

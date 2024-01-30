@@ -1,3 +1,4 @@
+
 .category-card {
   display: flex;
   flex-direction: column;
@@ -30,30 +31,28 @@
 }
 
 // CAROUSEL MARCAS
+.text{
+  color: rgb(0, 0, 0);
+}
 .container .icon-img {
   max-width: 30px;
-  margin-bottom: 10px;
 }
 
 .carousel-marcas {
-  padding-top: 10px;
-  padding-bottom: 10px;
   display: flex;
-  justify-content: space-between;
-  flex-wrap: nowrap;
+  justify-content: space-around;
+  flex-wrap: wrap;
 }
 
 .carousel-marcas .item {
   text-align: center;
-  flex: 1;
-  padding: 0 10px;
+  padding-top: 10px;
+  box-sizing: border-box;
 }
 
 .carousel-marcas .item img {
-  padding: 20px;
-  max-width: 150%;
-  max-height: 50%;
-  display: block;
+  max-width: 50%;
+  height: auto;
 }
 
 @media (max-width: 768px) {
@@ -66,16 +65,9 @@
   .carousel-marcas {
     flex-wrap: wrap;
     justify-content: center;
-    align-items: center;
   }
-
-  .carousel-marcas .item {
-    width: 45%;
-    padding-left: 40px;
-  }
-
   .carousel-marcas .item img {
-    max-width: 160px;
+    max-width: 140px;
     height: auto;
   }
 
