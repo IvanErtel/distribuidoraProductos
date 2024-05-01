@@ -1,3 +1,31 @@
+// Filtro Categoria
+.categorias-filtro {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px; /* Espacio entre botones */
+}
+
+.btn-filtro {
+  background-color: #17a2b8; /* Color por defecto para btn-info */
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 0.25rem; /* Ajusta según el border-radius de tus cards */
+  transition: background-color 0.3s, transform 0.3s; /* Transición suave */
+}
+
+.btn-filtro:hover {
+  background-color: #1391b8; /* Color más oscuro para el hover */
+  transform: scale(1.05); /* Efecto de ligero aumento de tamaño */
+}
+// FIN Filtro Categoria
+
+.btn-filtro.activo {
+  background-color: #007bff;
+}
+
 .card {
   margin-left: 5px;
   margin-right: 5px;
@@ -6,8 +34,8 @@
 }
 
 .card:hover {
-  transform: scale(1.01);
-  box-shadow: 0 4px 8px rgb(0, 0, 0, 0.2);
+  transform: scale(1.03);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
 }
 
 .card .card-img-top {
@@ -52,13 +80,20 @@
 .old-price {
   color: #999;
   text-decoration: line-through;
+  display: inline-block; /* Para que aparezca al lado del nuevo precio */
+  color: #999;
+  font-size: 0.9rem; /* Más pequeño que el nuevo precio */
+  text-decoration: line-through;
+  margin-left: 10px;
 }
 
 .discount {
-  color: #ff0000;
-  font-size: 16px;
-  font-weight: bold;
-  padding-left: 10px;
+  background-color: #ff0000;
+  color: #fff;
+  border-radius: 5px;
+  padding: 2px 4px;
+  margin-left: 10px;
+  font-size: 0.9rem;
 }
 
 // FIN ESTILOS PARA LOS PRECIOS Y DESCUENTOS
@@ -105,6 +140,19 @@
 .btn-primary {
   background-color: #007bff;
   border-color: #007bff;
+}
+.btn-primary:hover {
+  background-color: #0056b3; /* Un azul ligeramente más oscuro */
+  border-color: #0056b3;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.rating .star {
+  color: #ffc107; 
+}
+
+.rating .star.filled {
+  text-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
 }
 
 .btn-secondary {

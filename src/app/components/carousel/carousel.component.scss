@@ -1,7 +1,4 @@
-.container{
-  max-width: 70%;
-  max-height: 60%;
-}
+
 // TARJETA DE PRODUCTOS
 .card {
   margin-left: 5px;
@@ -60,10 +57,10 @@
     width: 100%;
 }
 
-.container h2 {
+h2 {
     margin-top: 1rem;
 }
-.container .icon-img{
+.icon-img{
     max-width: 30px;
     margin-bottom: 10px;
 }
@@ -96,9 +93,30 @@
 // FIN ESTILOS PARA LOS PRECIOS Y DESCUENTOS
 
 // MEDIAS QUERYS
+
 @media screen and (max-width: 768px) {
+
+  .container-fluid{
+    max-width: 100%;
+  }
+  #miCarrusel{
+    max-width: 100%;
+    padding: 0 15%;
+  }
+  
+  .container-banner{
+    flex-direction: column;
+    text-align: center;
+  }
+  .image-banner{
+    margin-top: 20px;
+  }
+  .image-banner img {
+    max-width: 80%;
+  }
+  
   .card {
-    flex: 0 0 45%; 
+    flex: 0 0 50%; 
     max-width: 45%; 
     max-height: 300px;
     overflow: hidden;

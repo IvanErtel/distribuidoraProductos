@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "source": ".",
+    "public": "dist/vineria-angular/browser",
     "ignore": [
       "firebase.json",
       "**/.*",

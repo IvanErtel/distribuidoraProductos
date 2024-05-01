@@ -24,7 +24,9 @@ export class ProductosComponent implements OnInit {
   descuento: number = 0;
   productos: any[] = [];
   productosFiltrados: any[] = [];
-
+  categorias: string[] = ['Bebidas', 'Almacen', 'Cigarrillos', 'Enlatados', 'Gaseosas', 'Importados'];
+  categoriaSeleccionada: string = '';
+  
   constructor(private route: ActivatedRoute) { }
 
   ngOnInit(): void {
@@ -43,10 +45,48 @@ export class ProductosComponent implements OnInit {
       }
     });
   }
+
   filtrarProductos(termino: string): void {
-    this.productosFiltrados = this.productos.filter(producto =>
-      (producto.descripcion && producto.descripcion.toLowerCase().includes(termino.toLowerCase())) ||
-      (producto.categoria && producto.categoria.toLowerCase().includes(termino.toLowerCase()))
-    );
+    this.productosFiltrados = this.productos.filter(producto => {
+      // Verificar si la descripción contiene el término de búsqueda
+      const descripcionMatch = producto.descripcion.toLowerCase().includes(termino.toLowerCase());
+  
+      // Verificar si alguna de las categorías contiene el término de búsqueda
+      let categoriaMatch = false;
+      if (Array.isArray(producto.categoria)) {
+        // Si 'categoria' es un array, verifica cada elemento del array
+        categoriaMatch = producto.categoria.some(( categoria: string) => categoria.toLowerCase().includes(termino.toLowerCase()));
+      } else {
+        // Si 'categoria' no es un array, realiza la verificación directamente
+        categoriaMatch = producto.categoria.toLowerCase().includes(termino.toLowerCase());
+      }
+  
+      return descripcionMatch || categoriaMatch;
+    });
   }
+
+  filtrarPorCategoria(categoria: string): void {
+    this.categoriaSeleccionada = categoria;
+    if (!categoria) {
+      this.productosFiltrados = this.productos;
+    } else {
+      this.productosFiltrados = this.productos.filter(producto => 
+        producto.categoria.includes(categoria)
+      );
+    }
+  }
+
+  mostrarDetallesProducto(codigoProducto: string): void {
+    const producto = this.productos.find(p => p.codigo === codigoProducto);
+    if (!producto) return;
+    const modalImagen = document.getElementById('modalProductoImagen') as HTMLImageElement;
+    const modalPrecio = document.getElementById('modalProductoPrecio') as HTMLElement;
+    const modalDescripcion = document.getElementById('modalProductoDescripcion') as HTMLElement;
+  
+    modalImagen.src = producto.imagen;
+    modalImagen.alt = producto.descripcion; // Usamos 'descripcion' ya que no hay un campo 'nombre'
+    modalPrecio.textContent = `$${producto.precio}`;
+    modalDescripcion.textContent = producto.descripcion;
+  }
+  
 }

@@ -9,8 +9,9 @@ export const routes: Routes = [
     },
     {
         path: 'productos', 
-        component: ProductosComponent
+        loadChildren: () => import('./components/productos/productos.module').then(m => m.ProductosModule)
     },
+    { path: '', component: ProductosComponent },
     {
         path: '', 
         redirectTo: '/home',

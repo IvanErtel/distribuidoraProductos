@@ -1,9 +1,10 @@
 import { Component, OnInit } from '@angular/core';
+import { RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-categorias',
   standalone: true,
-  imports: [],
+  imports: [RouterLink],
   templateUrl: './categorias.component.html',
   styleUrl: './categorias.component.scss'
 })

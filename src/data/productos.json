@@ -1,80 +1,72 @@
 [
-
     {
-        "categoria": "Villa del sur",
+        "categoria": "Bebidas",
         "imagen": "/assets/imgJson/villadelsur2l.jpg",
         "codigo": "115",
         "descripcion": "AGUA VILLA del Sur 6X2L",
         "precio": "3.300"
     },
     {
-        "categoria": "villavicencio",
+        "categoria": "Bebidas",
         "imagen": "/assets/imgJson/villavicencio2l.webp",
         "codigo": "290",
         "descripcion": "AGUA villavicencio 6X2L",
         "precio": "3.200"
     },
     {
-        "categoria": "Manaos",
+        "categoria": "Bebidas",
         "imagen": "/assets/imgJson/manaos2l.jpg",
         "codigo": "1061",
         "descripcion": "AGUA VILLA MANAOS 6X2L",
         "precio": "4.100"
     },
     {
-        "categoria": "Villa del sur",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/PlacerManzana.webp",
         "codigo": "164",
         "descripcion": "PLACER MANZANA 6X1,5",
         "precio": "2.200"
     },
     {
-        "categoria": "aceite",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Almacen",
+        "imagen": "/assets/imgJson/aceiteCañuelas.webp",
         "codigo": "794",
-        "descripcion": "",
+        "descripcion": "Aceite Cañuelas 1.5",
         "precio": "6.200"
     },
     {
-        "categoria": "aderezos",
+        "categoria": "Almacen",
         "imagen": "../../assets/imgJson/aderezo.webp",
         "codigo": "926",
-        "descripcion": "",
+        "descripcion": "Aderezos",
         "precio": "4.200"
     },
     {
-        "categoria": "Azucar",
+        "categoria": "Almacen",
         "imagen": "../../assets/imgJson/azucar.jpg",
         "codigo": "769",
-        "descripcion": "Comun 10 X 1Kg",
+        "descripcion": "Azucar Comun 10 X 1Kg",
         "precio": "8.300"
     },
     {
-        "categoria": "Cafe",
+        "categoria": "Almacen",
         "imagen": "../../assets/imgJson/cafedolca.png",
         "codigo": "971",
         "descripcion": "CAFE DOLCA SUAVE 12X170G",
         "precio": "300.00"
     },
     {
-        "categoria": "chocolatada",
+        "categoria": "Almacen",
         "imagen": "../../assets/imgJson/chocolatada.png",
         "codigo": "797",
-        "descripcion": "",
+        "descripcion": "Chocolatada Ilolay 1L",
         "precio": "4.900"
     },
     {
-        "categoria": "dulces",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "893",
-        "descripcion": "",
-        "precio": "10.500"
-    },
-    {
-        "categoria": "edulcorante",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Almacen",
+        "imagen": "/assets/imgJson/edulcorante.webp",
         "codigo": "966",
-        "descripcion": "",
+        "descripcion": "Edulcorante Si Diet",
         "precio": "11.500"
     },
     {
@@ -85,414 +77,267 @@
         "precio": "1.300"
     },
     {
-        "categoria": "Harina",
+        "categoria": "Almacen",
         "imagen": "../../assets/imgJson/harina.jpg",
         "codigo": "789",
-        "descripcion": "DURAZNO LA COLINA LATA 12X820",
+        "descripcion": "Harina Pureza 0000",
         "precio": "5.300"
     },
     {
-        "categoria": "lacteos",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Almacen",
+        "imagen": "/assets/imgJson/milkaut.webp",
         "codigo": "798",
-        "descripcion": "",
+        "descripcion": "Leche milkaut 1L",
         "precio": "4.800"
     },
     {
-        "categoria": "Tomates",
+        "categoria": "Enlatados",
         "imagen": "../../assets/imgJson/tomatelata.png",
         "codigo": "896",
-        "descripcion": "",
+        "descripcion": "La Campagnola 520g",
         "precio": "4.500"
     },
     {
-        "categoria": "Yerbas",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Almacen",
+        "imagen": "/assets/imgJson/yerbabaldo.webp",
         "codigo": "783",
-        "descripcion": "DURAZNO LA COLINA LATA 12X820",
-        "precio": "110"
+        "descripcion": "Yerba Baldo 1Kg",
+        "precio": "950"
     },
     {
-        "categoria": "Aperitivos",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "4",
-        "descripcion": "",
-        "precio": "240"
-    },
-    {
-        "categoria": "Botella",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "606",
-        "descripcion": "",
-        "precio": "28.800"
-    },
-    {
-        "categoria": "Fernet",
+        "categoria": "Bebidas",
         "imagen": "../../assets/imgJson/gancia.jpg",
         "codigo": "1700",
         "descripcion": "GANCIA 12X1L",
         "precio": "100"
     },
     {
-        "categoria": "Lata",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/fernetbranca.webp",
         "codigo": "1448",
-        "descripcion": "FERNET BRANCA-MENTA 6X750",
+        "descripcion": "FERNET BRANCA 6X750",
         "precio": "22.800"
     },
     {
-        "categoria": "FERNET",
+        "categoria": "Bebidas",
         "imagen": "../../assets/imgJson/fernetmenta.webp",
         "codigo": "737",
         "descripcion": "FERNET BRANCA-MENTA 6X750",
         "precio": "5.900"
     },
     {
-        "categoria": "vinos finos",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "5",
-        "descripcion": "",
-        "precio": "240"
-    },
-    {
-        "categoria": "Lata",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "359",
-        "descripcion": "",
-        "precio": "140"
-    },
-    {
-        "categoria": "Porron",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/andesCervezaRubia.webp",
         "codigo": "571",
-        "descripcion": "ANDES LATA NEGRA 24X473",
+        "descripcion": "ANDES LATA Rubia 24X473",
         "precio": "150"
     },
     {
-        "categoria": "Retornable",
+        "categoria": "Bebidas",
         "imagen": "../../assets/imgJson/andesnegralata.webp",
         "codigo": "353",
         "descripcion": "ANDES LATA NEGRA 24X473",
         "precio": "190"
     },
     {
-        "categoria": "Espumante",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "992",
-        "descripcion": "",
-        "precio": "120"
-    },
-    {
-        "categoria": "Lopez",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "325",
-        "descripcion": "",
-        "precio": "140"
-    },
-    {
-        "categoria": "Salentein",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/Salentein.webp",
         "codigo": "535",
-        "descripcion": "",
+        "descripcion": "Vino Salentein",
         "precio": "250"
     },
     {
-        "categoria": "Coca-cola",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": ["Bebidas", "Gaseosas"] ,
+        "imagen": "/assets/imgJson/cocalata.webp",
         "codigo": "179",
-        "descripcion": "VALE POR ENVASES",
-        "precio": "10.300"
+        "descripcion": "Coca Cola lata 235ml",
+        "precio": "420"
     },
     {
-        "categoria": "Cunnington",
+        "categoria": ["Bebidas", "Gaseosas"],
         "imagen": "/assets/imgJson/cuningtonpomelo.jpg",
         "codigo": "23",
-        "descripcion": "VALE POR ENVASES",
+        "descripcion": "Cunnington",
         "precio": "6.500"
     },
     {
-        "categoria": "Fanta",
+        "categoria": ["Bebidas", "Gaseosas"],
         "imagen": "/assets/imgJson/fanta.png",
         "codigo": "340",
-        "descripcion": "",
+        "descripcion": "Fanta",
         "precio": "30"
     },
     {
-        "categoria": "Manaos",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "17",
-        "descripcion": "",
-        "precio": "4.700"
-    },
-    {
-        "categoria": "Pepsi",
+        "categoria": ["Bebidas", "Gaseosas"],
         "imagen": "/assets/imgJson/manaosnaranja.jpg",
         "codigo": "92",
         "descripcion": "MANAOS NARANJA 6X 2,25",
         "precio": "70"
     },
     {
-        "categoria": "Schweppes",
+        "categoria": "Cigarrillos",
+        "imagen": "/assets/imgJson/redpoint.webp",
+        "codigo": "92",
+        "descripcion": "Red Point Box x10",
+        "precio": "5170"
+    },
+    {
+        "categoria": "Cigarrillos",
+        "imagen": "/assets/imgJson/master.webp",
+        "codigo": "92",
+        "descripcion": "Master Comun x10",
+        "precio": "4570"
+    },
+    {
+        "categoria": "Cigarrillos",
+        "imagen": "/assets/imgJson/redpointmentol.webp",
+        "codigo": "92",
+        "descripcion": "Red Point Menta Box x10",
+        "precio": "5170"
+    },
+    {
+        "categoria": ["Bebidas", "Gaseosas"],
         "imagen": "/assets/imgJson/schweppes.webp",
         "codigo": "51",
         "descripcion": "Schweppes lata",
         "precio": "10.300"
     },
     {
-        "categoria": "Seven-up",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": ["Bebidas", "Gaseosas"],
+        "imagen": "/assets/imgJson/7upzero.webp",
         "codigo": "28",
-        "descripcion": "MANAOS NARANJA 6X 2,25",
+        "descripcion": "Seven Up zero 1.5L 7UP",
         "precio": "70"
     },
     {
-        "categoria": "Sprite",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": ["Bebidas", "Gaseosas"],
+        "imagen": "/assets/imgJson/sprites.webp",
         "codigo": "50",
-        "descripcion": "MANAOS NARANJA 6X 2,25",
+        "descripcion": "Sprites 6X 2L",
         "precio": "10.300"
     },
     {
-        "categoria": "Fernet",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "645",
-        "descripcion": "",
-        "precio": "5.300"
-    },
-    {
-        "categoria": "Clight",
+        "categoria": "Almacen",
         "imagen": "/assets/imgJson/clight.webp",
         "codigo": "251",
-        "descripcion": "Jugo clight sobre",
+        "descripcion": "Jugo clight x36",
         "precio": "3.400"
     },
     {
-        "categoria": "Coca-cola",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": ["Bebidas", "Gaseosas"],
+        "imagen": "/assets/imgJson/coca.webp",
         "codigo": "316",
-        "descripcion": "",
-        "precio": "5.500"
+        "descripcion": "Coca Cola 2L",
+        "precio": "2.500"
     },
     {
-        "categoria": "Manaos",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "209",
-        "descripcion": "",
-        "precio": "7.100"
-    },
-    {
-        "categoria": "Powerade",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/powerade.webp",
         "codigo": "258",
-        "descripcion": "",
+        "descripcion": "powerade 828ml",
         "precio": "2.800"
     },
     {
-        "categoria": "Rinde dos",
+        "categoria": "Almacen",
         "imagen": "/assets/imgJson/rinde2.jpg",
         "codigo": "939",
-        "descripcion": "",
+        "descripcion": "Jugo Rinde dos",
         "precio": "50"
     },
     {
-        "categoria": "Tang",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Almacen",
+        "imagen": "/assets/imgJson/tang.webp",
         "codigo": "378",
-        "descripcion": "",
+        "descripcion": "Jugo en polvo tang x34",
         "precio": "3.200"
     },
     {
-        "categoria": "importados",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "487",
-        "descripcion": "",
-        "precio": "250"
-    },
-    {
-        "categoria": "Petacas",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/pioneerwhisky.jpg",
         "codigo": "433",
-        "descripcion": "",
+        "descripcion": "Petaca Pioneer Whisky",
         "precio": "80"
     },
     {
-        "categoria": "Tres plumas",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/3plumas.webp",
         "codigo": "437",
-        "descripcion": "",
+        "descripcion": "Licor 3 Plumas",
         "precio": "180"
     },
     {
-        "categoria": "Tres plumas pet",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "406",
-        "descripcion": "",
-        "precio": "80"
-    },
-    {
-        "categoria": "Tristina",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "423",
-        "descripcion": "",
-        "precio": "8.500"
-    },
-    {
-        "categoria": "Papel higienico",
+        "categoria": "Almacen",
         "imagen": "/assets/imgJson/papeldebaño.jpg",
         "codigo": "822",
-        "descripcion": "Sussex 80mts",
+        "descripcion": "Papel Higienico Sussex 80mts",
         "precio": "10.260"
     },
     {
-        "categoria": "Rollo cocina",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "870",
-        "descripcion": "",
-        "precio": "11.450"
-    },
-    {
-        "categoria": "Tunuyan",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "655",
-        "descripcion": "",
-        "precio": "5.700"
-    },
-    {
-        "categoria": "Balbo",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "857",
-        "descripcion": "",
-        "precio": "9.700"
-    },
-    {
-        "categoria": "Botella",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "203",
-        "descripcion": "",
-        "precio": "200"
-    },
-    {
-        "categoria": "Cabarceno",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "744",
-        "descripcion": "",
-        "precio": "8.900"
-    },
-    {
-        "categoria": "Catena Zapata",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/catenazapata.webp",
         "codigo": "1018",
-        "descripcion": "",
-        "precio": "20.500"
+        "descripcion": "Vino Fino Catena Zapata",
+        "precio": "10.500"
     },
     {
-        "categoria": "Don Bosco",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "945",
-        "descripcion": "",
-        "precio": "90"
-    },
-    {
-        "categoria": "Don valentin",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "278",
-        "descripcion": "",
-        "precio": "80"
-    },
-    {
-        "categoria": "Escorihuela",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "503",
-        "descripcion": "",
-        "precio": "22.600"
-    },
-    {
-        "categoria": "Esmeralda",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "838",
-        "descripcion": "",
-        "precio": "8.500"
-    },
-    {
-        "categoria": "Esteco",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/estibamalbel.jpg",
         "codigo": "271",
         "descripcion": "ESTIBA-1 MALBEC 6X750",
         "precio": "200"
     },
     {
-        "categoria": "Etchart",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/dondavid.jpg",
         "codigo": "631",
         "descripcion": "DON DAVID 6X750 MALBEC",
         "precio": "120"
     },
     {
-        "categoria": "Fabre",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "745",
-        "descripcion": "DON DAVID 6X750 MALBEC",
-        "precio": "180"
-    },
-    {
-        "categoria": "Las Moras",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/lasmoras.webp",
         "codigo": "87",
-        "descripcion": "",
+        "descripcion": "Las Moras vino",
         "precio": "180"
     },
     {
-        "categoria": "Lopez",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/almamora.webp",
         "codigo": "183",
         "descripcion": "ALMA MORA CAB-SUA 6X750",
         "precio": "7.200"
     },
     {
-        "categoria": "Los Haroldos",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/rinconfamoso.webp",
         "codigo": "537",
         "descripcion": "RINCON FAMOSO TINTO 6X750",
         "precio": "8.200"
     },
     {
-        "categoria": "Luigi Bosca",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "204",
-        "descripcion": "",
-        "precio": "180"
-    },
-    {
-        "categoria": "Mosquita Muerta",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/mosquitamuerta.webp",
         "codigo": "1022",
-        "descripcion": "",
+        "descripcion": "Mosquita Muerta blend",
         "precio": "130"
     },
     {
-        "categoria": "Navarro",
+        "categoria": "Bebidas",
         "imagen": "/assets/imgJson/navarrocorreas.jpg",
         "codigo": "298",
         "descripcion": "Vino Navarro Correas 750ml",
         "precio": "150"
     },
     {
-        "categoria": "Norton",
+        "categoria": "Bebidas",
         "imagen": "/assets/imgJson/norton.png",
         "codigo": "545",
         "descripcion": "Vino Tino Norton",
         "precio": "9.900"
     },
     {
-        "categoria": "Peña Flor",
-        "imagen": "/assets/imgJson/clight.webp",
-        "codigo": "449",
-        "descripcion": "",
-        "precio": "13.500"
-    },
-    {
-        "categoria": "RPB",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/manojodeuva.webp",
         "codigo": "551",
         "descripcion": "MANOJO DE UVAS TINTO 12X1L",
         "precio": "110"
@@ -540,38 +385,38 @@
         "precio": "12.500"
     },
     {
-        "categoria": "Doble-v",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/doblev.webp",
         "codigo": "1027",
-        "descripcion": "",
+        "descripcion": "Whisky Doble-v 1.5",
         "precio": "150"
     },
     {
-        "categoria": "Nita",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/nita.webp",
         "codigo": "491",
-        "descripcion": "",
+        "descripcion": "Vodka Nita",
         "precio": "8.500"
     },
     {
-        "categoria": "Sernova",
+        "categoria": "Bebidas",
         "imagen": "/assets/imgJson/sernova.png",
         "codigo": "1033",
         "descripcion": "Sernova Vodka 700ml",
         "precio": "19.200"
     },
     {
-        "categoria": "skyy",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/skyy.webp",
         "codigo": "661",
-        "descripcion": "",
+        "descripcion": "Vodka Skyy",
         "precio": "4.200"
     },
     {
-        "categoria": "Smirnoff",
-        "imagen": "/assets/imgJson/clight.webp",
+        "categoria": "Bebidas",
+        "imagen": "/assets/imgJson/Smirnoff.avif",
         "codigo": "622",
-        "descripcion": "",
+        "descripcion": "Vodka Smirnoff",
         "precio": "20.400"
     }
 ]
